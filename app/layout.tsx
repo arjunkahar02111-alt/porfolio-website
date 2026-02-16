@@ -22,7 +22,7 @@ const jetbrains = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'ARJUN | Cyber Domain - Developer Portfolio',
+  title: 'ARJUN PORTFOLIO',
   description: 'Futuristic cyberpunk developer portfolio for Arjun. Full-stack developer, system architect, and digital craftsman.',
 }
 
