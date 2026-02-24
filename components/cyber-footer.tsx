@@ -26,7 +26,7 @@ export function CyberFooter() {
           <div className="h-px w-24 bg-gradient-to-r from-transparent via-cyber-blue/30 to-transparent" />
 
           <p className="font-mono text-[10px] text-muted-foreground uppercase tracking-wider">
-            Designed & Built in the Cyber Domain
+            Designed & Built in the Cyber Domain By Arjun
           </p>
 
           <p className="font-mono text-[10px] text-muted-foreground">
